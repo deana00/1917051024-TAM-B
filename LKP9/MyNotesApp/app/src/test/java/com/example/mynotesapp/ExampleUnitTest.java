@@ -1,4 +1,4 @@
-package com.tam.myunittest;
+package com.example.mynotesapp;
 
 import org.junit.Test;
 

@@ -1,4 +1,4 @@
-package com.tam.myunittest;
+package com.example.mysharedpreferences;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.tam.myunittest", appContext.getPackageName());
+        assertEquals("com.example.mysharedpreferences", appContext.getPackageName());
     }
 }
